@@ -1,2 +1,2 @@
-# ESkilzTournaments
-Smart contract for tournaments in Solidity
+# PrizePool
+Prize Pool smart contract for P2E (Pool game)
